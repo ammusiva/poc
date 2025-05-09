@@ -1,3 +1,11 @@
+
+# setup
+unzip new floder replace src folder, copy server folder inside the folder
+run our normal reactjs
+open one more terminal cd server and node index.js
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
