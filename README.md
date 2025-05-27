@@ -1,8 +1,8 @@
 
 # setup
-unzip new floder replace src folder, copy server folder inside the folder
-run our normal reactjs
-open one more terminal cd server and node index.js
+open columnlist file in notepad and copy only forst object
+in tableview component remove toast import
+
 
 
 
